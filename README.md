@@ -21,6 +21,6 @@
       - The sword can be distroyed with another energy sword      
 >
 >
-![image](https://github.com/MC561/Base57_Tech_Schematics/assets/142889516/87575e3d-ecc6-4894-a855-fb8671832f46)
-
-
+    ![image](https://github.com/MC561/Base57_Tech_Schematics/assets/142889516/87575e3d-ecc6-4894-a855-fb8671832f46)
+>
+>
