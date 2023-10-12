@@ -21,7 +21,6 @@
       - The sword can be distroyed with another energy sword      
  >
  >
- ![image](https://github.com/MC561/Base57_Tech_Schematics/assets/142889516/217ec81c-39e9-4be3-9afc-a62eb9c52b29)
-
+ ![new lightsaber](https://github.com/MC561/Base57_Tech_Schematics/assets/142889516/6fc2fed6-4b02-4881-aee3-c1aa76e0d04c)
  >
  >
