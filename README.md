@@ -20,7 +20,7 @@
       - The sword can operate for 10 hours while using 80% of both mithril alsorbers
       - The sword can be distroyed with another energy sword      
  ![new lightsaber 2](https://github.com/MC561/Base57_Tech_Schematics/assets/142889516/caaa9e78-169b-4953-ae67-ccf8164c280e)
-  - Required materials :
+  - **Required materials** :
       - 8 magnets
       - Rethrim slider parts
       - Rethrim top slider parts
@@ -37,3 +37,16 @@
       - Orthrim lower core
       - 2 Copper B4 rods
       - 2 Rethrim chamber tubes
+ - **Production Process** :
+      - Magnets: 1 magnet requires 1/2t of atractium then melt it and pour them into molds (Make sure the molds are electrified). Take them out of the molds and sand till smooth.
+      - Rethrim slider parts: I have made parts for them , they are located in the storage bay. Melt the rethrim then pour into the molds then take them out to sand til smooth and apply coat of black paint.
+      - Anti core inserts: Molds are located in the storage bay. Pour melted anti into mold then take out to sand till smooth.
+      - Orthrim top core: Molds are located in the storage bay. Pour melted Orthrim into the molds then take out for sanding.
+      - Rethrim upper and lower chambers: Molds can be found in the storage bay. Pour melted rethrim into mold then take out for sanding.
+      - Rethrim upper and lower teeth: Molds can be found in the storage bay. Pour melted rethrim into molds then take out for sanding.
+      - Rethrim spines: Molds can be found in the storage bay. Pour melted rethrim into molds then take out for sanding.
+      - Nth Disks: Molds can be found in the storage bay. Melt Nth with mithril energy tool. Pour melted nth into mold then take it out to wash with distiled water.
+      - Rethrim lower core: Molds can be found in the storage bay. Pour melted rethrim into the mold then take out to sand.
+      - Orthrim lower core: Molds can be found in the storage bay. Pour melted rethrim into the mold then take out to sand. Add programmed motherboard to control the sword (It has to be circular) add sensors over the motherboard.
+      - Copper B4 rods: Molds can be found in the storage bay. Pour melted rethrim into the mold then take out to sand.
+      - Rethrim chamber tubes: Molds can be found in the storage bay. Pour melted rethrim into the molds then take out for sanding.
