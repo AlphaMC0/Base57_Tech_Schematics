@@ -51,4 +51,3 @@
       - Copper B4 rods: Molds can be found in the storage bay. Pour melted rethrim into the mold then take out to sand.
       - Rethrim chamber tubes: Molds can be found in the storage bay. Pour melted rethrim into the molds then take out for sanding.
       - Mithril: Purify the two mithril gems.(Requires builder to know the mithril purification process).
-jhilk
