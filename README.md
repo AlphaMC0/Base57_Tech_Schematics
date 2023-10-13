@@ -37,7 +37,7 @@
       - Orthrim lower core
       - 2 Copper B4 rods
       - 2 Rethrim chamber tubes
- - **Production Process** :
+  - **Production Process** :
       - Magnets: 1 magnet requires 1/2t of atractium then melt it and pour them into molds (Make sure the molds are electrified). Take them out of the molds and sand till smooth.
       - Rethrim slider parts: I have made parts for them , they are located in the storage bay. Melt the rethrim then pour into the molds then take them out to sand til smooth and apply coat of black paint.
       - Anti core inserts: Molds are located in the storage bay. Pour melted anti into mold then take out to sand till smooth.
