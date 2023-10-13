@@ -19,8 +19,21 @@
            Mode 3 Custom the player can set a custom amount that gravity can affect the sword.
       - The sword can operate for 10 hours while using 80% of both mithril alsorbers
       - The sword can be distroyed with another energy sword      
- >
- >
  ![new lightsaber 2](https://github.com/MC561/Base57_Tech_Schematics/assets/142889516/caaa9e78-169b-4953-ae67-ccf8164c280e)
- >
- >
+  - Required materials :
+      - 8 magnets
+      - Rethrim slider parts
+      - Rethrim top slider parts
+      - 10 Anti core inserts
+      - Orthrim top core
+      - Rethrim upper chamber
+      - Rethrim lower chamber
+      - 2 Rethrim upper teeth
+      - 2 Rethrim lower teeth
+      - 3 Rethrim spines
+      - 2 500g mithril gems
+      - 4 Nth Disks
+      - Rethrim lower chamber
+      - Orthrim lower core
+      - 2 Copper B4 rods
+      - 2 Rethrim chamber tubes
