@@ -1,4 +1,4 @@
-# Base-57 Tech Schematics
+# Base-51 Tech Schematics
 + **Weapons**
   - The Energy Sword (_Tizona_) :
       - The sword has two mithril absorbers
