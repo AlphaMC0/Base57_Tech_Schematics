@@ -1,5 +1,5 @@
 # Base-51 Tech Schematics
- **The Energy Sword (_Tizona_)** :
+ **The Energy Sword (_Tizona_)** 
       - The sword has two mithril absorbers
       - The sword contains 1d per absorber
       - The sword's hilt is made out of Orthrim and anti
