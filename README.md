@@ -22,7 +22,7 @@
   - 1 Emitter
   - 1 Focusing Glass
   - 2 Mithril Infused Cores
-  - 1 Absorber/Transferer            
+  - 2 Absorber/Transferer            
   - 1 End Cap
 
 **Crafting Recipe**  
