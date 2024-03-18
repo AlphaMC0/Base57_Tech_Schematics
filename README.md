@@ -43,17 +43,15 @@
 
 (C Stands for End Cap)
 
-___________
-|X|X|E|X|X|
- 
-|X|X|F|X|X|
- 
-|X|M|A|M|X|
- 
-|X|X|A|X|X|
- 
-|X|X|C|X|X|
-___________
+X X E X X
+
+X X F X X
+
+X M A M X
+
+X X A X X
+
+X X C X X
 
 **Emitter**
 
