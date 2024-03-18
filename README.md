@@ -27,12 +27,20 @@
 
 **Crafting Recipe**  
 
-**-Key**
+**Tizona's Recipe**
+
+**Key**
+
 (X means nothings there)
+
 (E Stands for Emitter)
+
 (F Stands for Focusing Glass)
+
 (M Stands for Mithril Infused Cores)
+
 (A Stands for Absorber/Transferer)
+
 (C Stands for End Cap)
 
  X X E X X
@@ -44,3 +52,39 @@
  X X A X X
  
  X X C X X
+
+**Emitter**
+
+**Emitter Recipe**
+
+**Required Materials**
+  - 4  Rethrim Plates
+
+**Key**
+
+(X means nothings there)
+
+(R Stands for Rethrim Plates)
+
+X R X
+
+R X R
+
+X R X
+
+**Rethrim Plates Recipe**
+
+**Required Materials**
+  - 5 Rethrim Ingots
+
+**Key**
+
+(X means nothings there)
+
+(R Stands for Rethrim Ingots)
+
+X R X
+
+R R R
+
+X R X
