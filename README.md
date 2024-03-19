@@ -147,7 +147,7 @@ X R X
 R X R 
 
 X R X
-__________________________
+
 # Pistol
 - The Pistol can fire only single shots
 - Very ineffective against monsters (Should only be used as a last resort)
