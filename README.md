@@ -23,7 +23,7 @@ ________________________________________________________________________________
   - 1 Emitter
   - 1 Focusing Glass
   - 2 Mithril Infused Cores
-  - 2 Absorber/Transferer            
+  - 2 Copper Pipe          
   - 1 End Cap
 
 **Crafting Recipes**  
@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 (M Stands for Mithril Infused Cores)
 
-(A Stands for Absorber/Transferer)
+(P Stands for Copper Pipe)
 
 (C Stands for End Cap)
 
@@ -48,12 +48,12 @@ X X E X X
 
 X X F X X
 
-X M A M X
+X M P M X
 
-X X A X X
+X X P X X
 
 X X C X X
-
+________________________________
 **Emitter**
 
 **Emitter Recipe**
@@ -72,7 +72,7 @@ X R X
 R X R
 
 X R X
-
+___________________
 **Rethrim Plates Recipe**
 
 **Required Materials**
@@ -89,7 +89,7 @@ X R X
 R R R
 
 X R X
-
+_______________________
 **Focusing Glass**
 
 **Requried Materials**
@@ -106,7 +106,7 @@ X C X
 C C C
 
 X C X
-
+________________________
 **Mithril Infused Core**
 
 **Required Materials**
@@ -126,7 +126,7 @@ X R X
 R M R
 
 X R X
-
+_____________________
 **Mithril Gem**
 
 **Required Materials**
@@ -143,3 +143,38 @@ X M X
 M M M
 
 X M X
+_____________________________
+**Copper Pipe**
+
+**Required Materials**
+  - 1 Copper Plate
+
+**Key**
+
+(X means nothings there)
+
+(C Stands for Copper Plate)
+
+X X X
+
+X C X
+
+X X X
+__________________________
+**End Cap**
+
+**Required Materials**
+  - 4 Rethrim Plates
+
+**Key**
+
+(X means nothings there)
+
+(R Stands for Rethrim Ingots)
+
+X R X
+
+R X R 
+
+X R X
+__________________________
