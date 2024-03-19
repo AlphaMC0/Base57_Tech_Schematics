@@ -18,21 +18,19 @@
   - Mode 1 No gravity can affect the sword
   - Mode 2 Normal gravity will affect the sword
 
-______________________________________________________________________________________________________
-**Required materials** :
+
+**Crafting Recipes**  
+
+(X means nothings there)
+
+**Tizona's Recipe**
+
+**Required materials** 
   - 1 Emitter
   - 1 Focusing Glass
   - 2 Mithril Infused Cores
   - 2 Copper Pipe          
   - 1 End Cap
-
-**Crafting Recipes**  
-
-**Tizona's Recipe**
-
-**Key**
-
-(X means nothings there)
 
 (E Stands for Emitter)
 
@@ -61,10 +59,6 @@ ________________________________
 **Required Materials**
   - 4  Rethrim Plates
 
-**Key**
-
-(X means nothings there)
-
 (R Stands for Rethrim Plates)
 
 X R X
@@ -77,10 +71,6 @@ ___________________
 
 **Required Materials**
   - 5 Rethrim Ingots
-
-**Key**
-
-(X means nothings there)
 
 (R Stands for Rethrim Ingots)
 
@@ -95,10 +85,6 @@ _______________________
 **Requried Materials**
   - 5 Clarium Disks (Made from smelting Clarium) (Simple Forge)
 
-**Key**
-
-(X means nothings there)
-
 (C Stands for Clarium Disks)
 
 X C X
@@ -112,10 +98,6 @@ ________________________
 **Required Materials**
   - 1 Mithril Gem
   - 4 Rethrium Plates
-
-**Key**
-
-(X means nothings there)
 
 (M Stands for Mithril Gem)
 
@@ -132,10 +114,6 @@ _____________________
 **Required Materials**
   - 5 Mithril Shards
 
-**Key**
-
-(X means nothings there)
-
 (M Stands for Mithril Shard)
 
 X M X
@@ -148,10 +126,6 @@ _____________________________
 
 **Required Materials**
   - 1 Copper Plate
-
-**Key**
-
-(X means nothings there)
 
 (C Stands for Copper Plate)
 
@@ -166,10 +140,6 @@ __________________________
 **Required Materials**
   - 4 Rethrim Plates
 
-**Key**
-
-(X means nothings there)
-
 (R Stands for Rethrim Ingots)
 
 X R X
@@ -178,3 +148,70 @@ R X R
 
 X R X
 __________________________
+# Pistol
+- The Pistol can fire only single shots
+- Very ineffective against monsters (Should only be used as a last resort)
+
+
+**Crafting Recipe**
+
+(X means nothings there)
+
+**Pistol Recipe**
+
+**Required Materials**
+  - 2 Rethrim Pipes
+  - 1 Connector
+  - 1 Handle
+  - 1 Accelerator
+  - 1 Energy Pod Accepter
+
+(R = Rethrim Pipe)
+
+(C = Connector)
+
+(H = Handle)
+
+(A = Accelerator)
+
+(E = Energy Pod Accepter
+
+X X X X X
+
+X X X X X
+
+E A C R R
+
+H X X X X
+
+X X X X X
+______________
+**Rethrim Pipe**
+
+**Required Materials**
+  - 1 Rethrim Plate
+
+(R = Rethrim Plate)
+
+X X X
+
+X R X
+
+X X X
+______________
+**Connector**
+
+**Required Materials**
+  - 4 Rethrim Plate
+  - 1 Focusing Glass
+
+(R = Rethrim Plate)
+
+(F = Focusing Glass)
+
+X R X
+
+R F R 
+
+X R X
+__________________
