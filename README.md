@@ -17,7 +17,8 @@
 **The Sword can alter the affect gravity has on it :**
   - Mode 1 No gravity can affect the sword
   - Mode 2 Normal gravity will affect the sword
-     
+
+______________________________________________________________________________________________________
 **Required materials** :
   - 1 Emitter
   - 1 Focusing Glass
