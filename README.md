@@ -1,4 +1,4 @@
-# Base-51 Tech Schematics
+# UPA Tech Schematics
 
 # The Energy Sword (_Tizona_)  :
 - The sword has two mithril absorbers
@@ -25,7 +25,7 @@
   - 2 Absorber/Transferer            
   - 1 End Cap
 
-**Crafting Recipe**  
+**Crafting Recipes**  
 
 **Tizona's Recipe**
 
@@ -88,3 +88,57 @@ X R X
 R R R
 
 X R X
+
+**Focusing Glass**
+
+**Requried Materials**
+  - 5 Clarium Disks (Made from smelting Clarium) (Simple Forge)
+
+**Key**
+
+(X means nothings there)
+
+(C Stands for Clarium Disks)
+
+X C X
+
+C C C
+
+X C X
+
+**Mithril Infused Core**
+
+**Required Materials**
+  - 1 Mithril Gem
+  - 4 Rethrium Plates
+
+**Key**
+
+(X means nothings there)
+
+(M Stands for Mithril Gem)
+
+(R Stands for Rethrim Plate)
+
+X R X
+
+R M R
+
+X R X
+
+**Mithril Gem**
+
+**Required Materials**
+  - 5 Mithril Shards
+
+**Key**
+
+(X means nothings there)
+
+(M Stands for Mithril Shard)
+
+X M X
+
+M M M
+
+X M X
