@@ -162,19 +162,19 @@ X R X
 **Required Materials**
   - 2 Rethrim Pipes
   - 1 Connector
-  - 1 Handle
   - 1 Accelerator
   - 1 Energy Pod Accepter
+  - 1 Handle
 
 (R = Rethrim Pipe)
 
 (C = Connector)
 
-(H = Handle)
-
 (A = Accelerator)
 
-(E = Energy Pod Accepter
+(E = Energy Pod Accepter)
+
+(H = Handle)
 
 X X X X X
 
@@ -215,3 +215,8 @@ R F R
 
 X R X
 __________________
+**Accelerator**
+
+**Required Materials**
+  - 1 Rethrim Pipe
+  - 
