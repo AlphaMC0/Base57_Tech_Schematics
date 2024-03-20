@@ -328,15 +328,37 @@ X O X
 
 X X X
 
-# Sniper
-- Though it can only fire single shots it does lots of damage
-- Very Effective at long ranges
+# ShotGun
+- This Weapon is good for clearing out hoards of monsters since it fires in a **BURST** killing the monsters hit in an area
+- THis Weapon is Primarly used to clear hoards not for single targets.
 
 **Crafting Recipe**
 
 (X means nothings there)
 
-**Sniper Recipe**
+**ShotGun Recipe**
 
 **Required Materials**
-  -
+  - 2 Rethrim Pipes
+  - 1 ShotGun Accelerator
+  - 1 Energy Pod Accepter
+  - 2 Handle
+
+(R = Rethrim Pipe)
+
+(S = ShotGun Accelerator)
+
+(E = Energy Pod Accepter)
+
+(H = Handle)
+
+X X X X X
+
+X X X X X
+
+X E S R R
+
+H H X X X
+
+X X X X X 
+______________________________________________________________
