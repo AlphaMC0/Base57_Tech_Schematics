@@ -42,7 +42,7 @@
 
 (C Stands for End Cap)
 
-X X E X X
+X-X E X X
 
 X X F X X
 
