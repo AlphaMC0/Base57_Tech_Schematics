@@ -327,3 +327,16 @@ X X X
 X O X
 
 X X X
+
+# Sniper
+- Though it can only fire single shots it does lots of damage
+- Very Effective at long ranges
+
+**Crafting Recipe**
+
+(X means nothings there)
+
+**Sniper Recipe**
+
+**Required Materials**
+  -
