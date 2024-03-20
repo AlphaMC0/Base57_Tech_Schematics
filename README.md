@@ -42,15 +42,15 @@
 
 (C Stands for End Cap)
 
-X-X-E-X-X
+X X E X X
 
-X-X-F-X-X
+X X F X X
 
-X-M-P-M-X
+X M P M X
 
-X-X-P-X-X
+X X P X X
 
-X-X-C-X-X
+X X C X X
 ________________________________
 **Emitter**
 
