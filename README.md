@@ -219,4 +219,111 @@ __________________
 
 **Required Materials**
   - 1 Rethrim Pipe
-  - 
+  - 2 Atractium Rods
+  - 8 Wires
+  - 1 Control Panel
+
+(R = Rethrim Pipe)
+
+(A = Atractium Rod)
+
+(W = Wire)
+
+(C = Control Panel)
+
+X X X X X
+
+X W A W X
+
+X W R W X
+
+X W A W X
+
+X W C W X
+_______________________
+**Atractium Rod**
+
+**Required Materials**
+  - 1 Atractium Ingot
+
+(A = Atractium Ingot)
+
+X X X
+
+X A X 
+
+X X X
+_______________________
+**Wire**
+
+**Required Materials**
+  - 1 Copper B4 Ingot
+  - 8 Polyethylene A3
+
+(C = Copper B4)
+
+(P = Polyethylene A3)
+
+P P P
+
+P C P
+
+P P P
+______________________
+**Control Panel**
+
+**Required Materials**
+  - 8 Fiber Glass A6
+  - 1 Wire
+
+(F = Fiber Glass A6)
+
+(W = Wire)
+
+F F F
+
+F W F
+
+F F F
+________________
+**Energy Pod Accepter**
+
+**Required Materials**
+  - 4 Orthrim Plates
+  - 1 Rethrim Pipe
+
+(O = Orthrim Plate)
+
+(R = Rethrim Pipe)
+
+X O X 
+
+O R O
+
+X O X
+____________________-
+**Orthrim Plate**
+
+**Required Materials**
+  - 5 Orthrim Ingots
+
+(O = Orthrim Ingot)
+
+X O X
+
+O O O
+
+X O X
+____________
+**Handle**
+
+**Required Materials**
+  - 1 Orthrim Ingot
+
+(O = Orthrim Ingot)
+
+X X X
+
+X O X
+
+X X X
