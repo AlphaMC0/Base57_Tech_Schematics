@@ -301,7 +301,7 @@ X O X
 O R O
 
 X O X
-____________________-
+____________________
 **Orthrim Plate**
 
 **Required Materials**
