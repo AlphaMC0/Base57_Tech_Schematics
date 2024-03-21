@@ -148,29 +148,29 @@ R X R
 
 X R X
 
-# Pistol
-- The Pistol can fire only single shots
-- Very ineffective against monsters (Should only be used as a last resort)
+# Rifle
+- The Rifle a Semi-Auto weapon used both for clearing and for single targets.
+- The Rifle can output large amounts of damage to enemies in an area and single target enemies.
 
 
 **Crafting Recipe**
 
 (X means nothings there)
 
-**Pistol Recipe**
+**Rifle Recipe**
 
 **Required Materials**
   - 2 Rethrim Pipes
-  - 1 Connector
-  - 1 Accelerator
+  - 1 Rifle Accelerator
+  - **1 Rifle Focus**
   - 1 Energy Pod Accepter
   - 1 Handle
 
 (R = Rethrim Pipe)
 
-(C = Connector)
+(F = Rifle Focus
 
-(A = Accelerator)
+(A = Rifle Accelerator)
 
 (E = Energy Pod Accepter)
 
@@ -180,9 +180,9 @@ X X X X X
 
 X X X X X
 
-E A C R R
+E A F R R
 
-H X X X X
+X H X X X
 
 X X X X X
 ______________
@@ -198,34 +198,18 @@ X X X
 X R X
 
 X X X
-______________
-**Connector**
-
-**Required Materials**
-  - 4 Rethrim Plate
-  - 1 Focusing Glass
-
-(R = Rethrim Plate)
-
-(F = Focusing Glass)
-
-X R X
-
-R F R 
-
-X R X
 __________________
-**Accelerator**
+**Rifle Accelerator**
 
 **Required Materials**
   - 1 Rethrim Pipe
-  - 2 Atractium Rods
+  - 2 Accelerated Atractium Rods
   - 8 Wires
   - 1 Control Panel
 
 (R = Rethrim Pipe)
 
-(A = Atractium Rod)
+(A = Accelerated Atractium Rod)
 
 (W = Wire)
 
@@ -253,6 +237,13 @@ X X X
 X A X 
 
 X X X
+_______________________
+**Accelerated Atractium Rod**
+
+**Required Materials**
+  - 1 Atractium Rod
+
+Put Atractium Rod in Accelerator.
 _______________________
 **Wire**
 
@@ -363,3 +354,55 @@ H H X X X
 X X X X X 
 ______________________________________________________________
 **ShotGun Accelerator**
+
+**Required Materials**
+  - 1 Combined Rethrim Pipe
+  - 1 Combined Focusing Glass
+  - 2 Atractium Rods
+  - 1 Control Panel
+  - 8 Wires
+
+(R = Combined Rethrim Pipe)
+
+(F = Combined Focusing Glass)
+
+(A = Atractium Rod)
+
+(W = Wire)
+
+X X X X X
+
+X W A W X
+
+X W R F W
+
+X W A W X
+
+X W C W X
+___________________________
+**Combined Rethrim Pipe**
+
+**Required Materials**
+  - 2 Rethrim Pipes
+
+(R = Rethrim Pipes)
+
+X X X
+
+X R X
+
+X R X
+___________________
+**Combined Focusing Glass**
+
+**Required Materials**
+  - 2 Focusing Glass
+
+(F = Focusing Glass)
+
+X X X 
+
+X F X 
+
+X F X
+__________________________
