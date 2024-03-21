@@ -1,5 +1,5 @@
 # UPA Tech Schematics
-
+**An Item stacks up to 16**
 # The Energy Sword (_Tizona_)  :
 - The sword has two mithril absorbers
 - The sword contains 1d per absorber
@@ -162,9 +162,9 @@ X R X
 **Required Materials**
   - 2 Rethrim Pipes
   - 1 Rifle Accelerator
-  - **1 Rifle Focus**
+  - 1 Rifle Focus
   - 1 Energy Pod Accepter
-  - 1 Handle
+  - 1 Rifle Handle
 
 (R = Rethrim Pipe)
 
@@ -174,7 +174,7 @@ X R X
 
 (E = Energy Pod Accepter)
 
-(H = Handle)
+(H = Rifle Handle)
 
 X X X X X
 
@@ -306,10 +306,10 @@ O O O
 
 X O X
 ____________
-**Handle**
+**Rifle Handle**
 
 **Required Materials**
-  - 1 Orthrim Ingot
+  - 2 Orthrim Ingot
 
 (O = Orthrim Ingot)
 
@@ -317,7 +317,23 @@ X X X
 
 X O X
 
-X X X
+X O X
+________________
+**Rifle Focus**
+
+**Required Materials**
+  - 1 Focusing Glass
+  - 4 Rethrim Plates
+
+(F = Focusing Glass)
+
+(R = Rethrim Plate)
+
+X R X
+
+R F R 
+
+X R X
 
 # ShotGun
 - This Weapon is good for clearing out hoards of monsters since it fires in a **BURST** killing the monsters hit in an area
@@ -333,7 +349,7 @@ X X X
   - 2 Rethrim Pipes
   - 1 ShotGun Accelerator
   - 1 Energy Pod Accepter
-  - 2 Handle
+  - 1 ShotGun Handle
 
 (R = Rethrim Pipe)
 
@@ -341,7 +357,7 @@ X X X
 
 (E = Energy Pod Accepter)
 
-(H = Handle)
+(H = ShotGun Handle)
 
 X X X X X
 
@@ -406,3 +422,15 @@ X F X
 
 X F X
 __________________________
+**ShotGun Handle**
+
+**Required Materials**
+  - 2 Orthrim Ingots
+
+(O = Orthrim Ingot)
+
+X X X
+
+O O X
+
+X X X
